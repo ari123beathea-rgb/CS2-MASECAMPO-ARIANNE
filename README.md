@@ -5,8 +5,14 @@
 ## Description
 # This program aims to calculate the fare price for one or more persons.
 
-## Version-1
+# Version-1
  - Input: Passenger Name, Distance, and Amount of Persons.
  - Process: Calculates and displays fare amount.
  - Output: Price in Php.
  - Original without input validation
+
+# Version-2
+ - Input: Passenger Name, Distance, and Amount of Persons.
+ - Process: Calculates and displays fare amount.
+ - Output: Price in Php.
+ - Revised code WITH input validation.
